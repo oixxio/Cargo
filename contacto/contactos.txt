@@ -1,0 +1,13 @@
+-31.334401, -64.207428
+Paquetería Córdoba. Av. La Voz del Interior esq. Av. Japón - Cba - (0351) 477-7700 (cargo@grupocargo.com)
+-34.653990, -58.406568
+Paquetería Buenos Aires. Pepirí 1386 esq. Rio Cuarto. CABA (011) 49112299 (atencionalcliente-pepiri@grupocargo.com)
+-34.431743, -58.711068
+Paquetería Benavidez. V. Tedín esq. O'Higgins. Benavidez - Bs. As. (03327) 444930 (cargo@grupocargo.com)
+-32.940441, -60.702046
+Paquetería Rosario. Mendoza 5770 - Rosario - (0341) 4579031 (cargo@grupocargo.com)
+-34.428525, -58.689767
+Transporte Milkrun/Kanban. Av. de los Constituyentes 5099 - Benavidez - Bs. As. (03327) 472015 (cargo@grupocargo.com)
+-31.470218, -64.150998
+Warehousing Córdoba Av. Rotary Internacional s/n - Cárcano - Cba - (0351) 497-8444 (ibornancini@grupocargo.com)
+Warehousing Bs.As. Av. de los Constituyentes 5099 - Benavidez - Bs. As. (03327) 4722015 (pperrota@grupocargo.com)
